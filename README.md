@@ -23,18 +23,19 @@
 I am a Java and PHP backend developer with a great desire to make the future world better<img src="https://media.tenor.com/P0aI7ZIYIzEAAAAi/orange.gif" width="20px"/>
 
 - <img src="https://media.tenor.com/3Ku-5AN4ZlAAAAAi/orange-heart-symbols.gif" width="20px"/> Owner of <a href="https://www.instagram.com/teachhouse.nikopol/" target="_blank">English speaking club</a>.
-- <img src="https://c.tenor.com/Ot3hDzO75f4AAAAi/tegan-teganiversen.gif" width="20px" height="20px"/> Currently working on <a href="https://t.me/mimosacms" target="_blank">CMS</a> builded on Spring boot.
-- <img src="https://c.tenor.com/HU3l-lCtryIAAAAi/swimming-tokyo-olympics2021.gif" width="20px" height="20px"/> I love dancing hip-hop and training in the gym)
-- <img src="https://c.tenor.com/pcSeP8H7SNsAAAAi/raf-rafs.gif" width="20px" height="20px"/> A little dachshund lives with me.
+- <img src="https://media.tenor.com/B3yQSNplTiIAAAAi/cheers-salut.gif" width="20px" height="20px"/> Currently working on <a href="https://t.me/mimosacms" target="_blank">CMS</a> builded on Spring boot.
+- <img src="https://c.tenor.com/Ot3hDzO75f4AAAAi/tegan-teganiversen.gif" width="20px" height="20px"/> I love dancing hip-hop and training in the gym)
 
 ---
 
-### 💻 My projects:
+### 💻 Java Projects:
 
-- 🚑 Medical app for doctors and patients - <a href="https://github.com/lainng/lumon">Lumon</a> (under development)
-- 🎁 MJC School - <a href="https://github.com/lainng/gift-certificate-security">Gift certificate</a> app
-- ✈️ EPAM Java Web development final project - <a href="https://github.com/lainng/airline">Airline</a> app
-- 📗 Test tasks: <a href="https://github.com/lainng/animal-library">Animal library</a> and <a href="https://github.com/lainng/gif-currency">Gif-currency</a> app
+- 🚑 Healthcare system on clear Java and Tomcat - <a href="https://gitlab.com/YegorChevardin/rayconhealth" target="_blank">RayconHEalth</a>
+- - 🚑 Healthcare system on Spring Boot - <a href="https://gitlab.com/YegorChevardin/healthyyou" target="_blank">HelthyYou</a>
+- 👨‍💻 API and data processing project for traffic accidents - <a href="https://gitlab.com/YegorChevardin/thedatapoc" target="_blank">The DataPOC</a>
+- 🍪 Bakery Employee managment system API for front-end - <a href="https://gitlab.com/YegorChevardin/bakeryprojectapi" target="_blank">Bakery</a>
+- 🎁 Gift Certificate system API for front-end - <a href="https://github.com/YegorChevardin/gift-certificate-secured" target="_blank">Gift Certificate</a> (If you look on my github, you would see <a href="https://github.com/YegorChevardin/gift-certificates-system" target="_blank">another version</a> of this project on clear Spring)
+- 📗 Other java projects on gitlab profile - <a href="https://gitlab.com/YegorChevardin" target="_blank">Gitlab</a>
 
 ---
 
