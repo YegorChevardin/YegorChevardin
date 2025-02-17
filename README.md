@@ -22,7 +22,4 @@
 
 I am a Java backend developer with a great desire to make the future world better<img src="https://media.tenor.com/P0aI7ZIYIzEAAAAi/orange.gif" width="20px"/>
 
-- <img src="https://media.tenor.com/3Ku-5AN4ZlAAAAAi/orange-heart-symbols.gif" width="20px"/> Owner of <a href="https://www.instagram.com/teachhouse.nikopol/" target="_blank">English speaking club</a>.
-- <img src="https://media.tenor.com/B3yQSNplTiIAAAAi/cheers-salut.gif" width="20px" height="20px"/> Currently working on <a href="https://t.me/mimosacms" target="_blank">CMS</a> builded on Spring boot.
-- <img src="https://c.tenor.com/Ot3hDzO75f4AAAAi/tegan-teganiversen.gif" width="20px" height="20px"/> I love dancing hip-hop and training in the gym)
 - 📗 Other java projects on gitlab profile - <a href="https://gitlab.com/YegorChevardin" target="_blank">Gitlab</a>
